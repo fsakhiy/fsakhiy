@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fsakhiy" alt="fsakhiy" /></a> </p>
 
-- 🔭 I’m currently working on [School Management System](github.com/fskahiy/ukk-sms)
+- 🔭 I’m currently working on [School Management System](github.com/fsakhiy/ukk-sms)
 
 - 🌱 I’m currently learning **TypeScript and exploring Mobile Development**
 
