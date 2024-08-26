@@ -1,4 +1,4 @@
-<h1 align="center">wassup my name is fairuz sakhiy hibban adijatmiko</h1>
+<h1 align="center">Hello, my name is Fairuz Sakhiy</h1>
 <h3 align="center">a tech enthusiast from indonesia mainly focusing on web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fsakhiy&label=Profile%20views&color=0e75b6&style=flat" alt="fsakhiy" /> </p>
